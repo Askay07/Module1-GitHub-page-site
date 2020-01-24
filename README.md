@@ -11,7 +11,7 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 ![Adam Jones](https://www.revolvermag.com/sites/default/files/styles/image_750_x_420/public/media/images/article/gettyimages-544572067.jpg?itok=0LI9P6h7&timestamp=1525273571)
 
 #### Justin Chancellor:
-![Justin Chancellor](https://cdn.mos.cms.futurecdn.net/v3TrCPAXbiVVLHvvxNaaz7-320-80.jpg)
+![Justin Chancellor](https://tonedeaf.thebrag.com/wp-content/uploads/2019/09/skin-768x435.jpg)
 
 #### Danny Carey:
 ![Danny Carey](https://metalheadzone.com/wp-content/uploads/2020/01/danny-carey.jpg)
