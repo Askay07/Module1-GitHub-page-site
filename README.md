@@ -26,7 +26,7 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 - [10,000 Days](https://en.wikipedia.org/wiki/10,000_Days_(Tool_album)) (2006)
 - [Fear Inoculum](https://en.wikipedia.org/wiki/Fear_Inoculum) (2019)
 
-*Source:* [Wikepedia](https://en.wikipedia.org/wiki/Tool_(band))
+*Source:* [Wikipedia](https://en.wikipedia.org/wiki/Tool_(band))
 
 ## Awards and Nominations
 |Year|Awards|Nominated work|Result|
@@ -39,7 +39,7 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 |2006|Best Hard Rock Performance|Vicarious|Nominated|
 |2007|Best Hard Rock Performance|The Pot|Nominated|
 
-*Source:* [Wikepedia](https://en.wikipedia.org/wiki/Tool_(band))
+*Source:* [Wikipedia](https://en.wikipedia.org/wiki/Tool_(band))
 
 ## [Tool's Best Songs](https://loudwire.com/best-tool-songs/)
 1. Lateralus
