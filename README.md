@@ -1,6 +1,7 @@
 
 
-# [TOOL](https://toolband.com/)
+                                                                                                
+# [TOOL](https://toolband.com/)                                                               
 Tool first started as a band in 1990 in Los Angeles. Starting band members include Maynard James Keenan in vocals, Adam Jones in guitar, Paul D'Amour in bass guitar and Danny Carey in drums. Paul D'Amour left the band in 1995 and was replaced by Justin Chancellor who used to play for Peach, a metal band from England. Tool has put out 5 studio albums so far. The most recent album released was "Fear inoculum" which was released more than a decade after their previous album "10,000 days".
 
 ## Band Members:
@@ -66,6 +67,6 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 
 *Source:* [For more bands similar to TOOL](https://www.last.fm/music/Tool/+similar)
 
-
-- 
+--------------------------------------------------------------------------------------
+- [My Profile](https://github.com/LundukS)
 
