@@ -11,3 +11,14 @@
 - [Fear Inoculum](https://en.wikipedia.org/wiki/Fear_Inoculum) (2019)
 
 ## Awards and nominations
+|Year|Awards|Nominated work|Result|
+|----|----|----|----|
+|1996|Best Recording Package(Adam Jones and Kevin Willis)|Aenima|Nominated|
+|1997|Best Metal Performance|Aenima|Won|
+|1997|Best Music Video|Stinkfist|Nominated|
+|2001|Best Metal Performance|Schism|Won|
+|2006|Best Recording Package(Adam Jones)|10,000 Days|Won|
+|2006|Best Hard Rock Performance|Vicarious|Nominated|
+|2007|Best Hard Rock Performance|The Pot|Nominated|
+
+*Source:* [Wikepedia](https://en.wikipedia.org/wiki/Tool_(band))
