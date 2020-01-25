@@ -66,5 +66,6 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 *Source:* [For more bands similar to TOOL](https://www.last.fm/music/Tool/+similar)
 
 --------------------------------------------------------------------------------------
-- [My Profile](https://github.com/LundukS)
+- This site is **maintained** by [Lunduk C Sherpa](https://github.com/LundukS)
+- Published with [GitHub pages](https://pages.github.com/)
 
