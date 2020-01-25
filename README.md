@@ -30,7 +30,7 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 
 ## Awards and Nominations
 |Year|Awards|Nominated work|Result|
-|----|----|----|----|
+|----|----------------------------------------------------|------------------|-------------------------|
 |1996|Best Recording Package(Adam Jones and Kevin Willis)|Aenima|Nominated|
 |1997|Best Metal Performance|Aenima|Won|
 |1997|Best Music Video|Stinkfist|Nominated|
