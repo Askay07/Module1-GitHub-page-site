@@ -29,15 +29,13 @@ Tool first started as a band in 1990 in Los Angeles. Starting band members inclu
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Tool_(band))
 
 ## Awards and Nominations
-|Year|Awards|Nominated work|Result|
-|----|----------------------------------------------------|------------------|-------------------------|
-|1996|Best Recording Package(Adam Jones and Kevin Willis)|Aenima|Nominated|
-|1997|Best Metal Performance|Aenima|Won|
-|1997|Best Music Video|Stinkfist|Nominated|
-|2001|Best Metal Performance|Schism|Won|
-|2006|Best Recording Package(Adam Jones)|10,000 Days|Won|
-|2006|Best Hard Rock Performance|Vicarious|Nominated|
-|2007|Best Hard Rock Performance|The Pot|Nominated|
+- Best Recording Package(Adam Jones and Kevin Willis), Aenima got nominated (1996).
+- Best Metal Performance, Aenima won (1997).
+- Best Music Video, Stinkfist got nominated (1997).
+- Best Metal Performance, Schism won (2001).
+- Best Recording Package(Adam Jones), 10,000 Days won(2006).
+- Best Hard Rock Performance, Vicarious got nominated (2006).
+- Best Hard Rock Performance, The Pot got nominated(2007).
 
 *Source:* [Wikipedia](https://en.wikipedia.org/wiki/Tool_(band))
 
